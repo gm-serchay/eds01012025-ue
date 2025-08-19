@@ -1,3 +1,0 @@
-<div class="content-fragment-block" data-aem-cf="${cfPath}">
-  <p><strong>Selected Content Fragment Path:</strong> ${cfPath}</p>
-</div>
